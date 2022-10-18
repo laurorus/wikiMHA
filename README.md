@@ -22,3 +22,10 @@ ___
 s = "Python syntax highlighting"
 print s
 ```
+
+```Grav
+var g = "Grav syntax highlighting"
+[left]Texte àligné à gauche[/left]
+[center]Texte centré[/center]
+[right]Texte algné à droite[/right]
+```
