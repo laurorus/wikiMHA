@@ -1,4 +1,4 @@
-# My Hero Academia: .text-center
+# My Hero Academia
 |My Hero Academia|
 |----------------|
 |![logo](https://github.com/laurorus/sitewebcour/blob/main/My_Hero_Academia_logo_fr.png "image1")|
@@ -32,3 +32,10 @@ ___
 >* Eraser
 3. ### Super Vilain
 ___
+
+Center-aligned
+{: .text-center}
+
+
+
+
