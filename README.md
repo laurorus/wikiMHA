@@ -13,6 +13,7 @@
 
 |information complémentaire|                                                  |
 |:---------------------------------------------------------------------------:|
+|--------------------------|:------------------------------------------------:|
 |Auteur                    |kohei Horikoshi                                   |
 |Type                      |shonen                                            |
 |Genre                     |action, science-fiction, fantastique, super-héros |
