@@ -11,15 +11,6 @@
 |Genre                     |action, science-fiction, fantastique, super-héros |
 |Nombre tome               |36 au japon et 34 en france                       |
 
-|information complémentaire|                                                  |
-|:---------------------------------------------------------------------------:|
-|--------------------------|:------------------------------------------------:|
-|Auteur                    |kohei Horikoshi                                   |
-|Type                      |shonen                                            |
-|Genre                     |action, science-fiction, fantastique, super-héros |
-|Nombre tome               |36 au japon et 34 en france                       |
-
-
 
 ___
 
@@ -38,4 +29,14 @@ ___
 >### Super Vilain
 ___
 [menu](https://github.com/laurorus/sitewebcour/blob/main/README.md)
+
+
+<p class="text-center">Texte centré</p>
+
+<p class=[menu](https://github.com/laurorus/sitewebcour/blob/main/README.md)>Texte centré</p>
+
+
+
+
+
 
