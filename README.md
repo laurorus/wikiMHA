@@ -3,12 +3,12 @@
 |----------------|
 |![logo](https://github.com/laurorus/sitewebcour/blob/main/My_Hero_Academia_logo_fr.png "image1")|
 
-|information complémentaire                                     |
-|------------|:------------------------------------------------:|
-|Auteur      |kohei Horikoshi                                   |
-|Type        |Shonen                                            |
-|Genre       |action, science-fiction, fantastique, super-héros |
-|Nombre tome |36 au japon et 34 en france                       |
+|information complémentaire|                                                  |
+|--------------------------|:------------------------------------------------:|
+|Auteur                    |kohei Horikoshi                                   |
+|Type                      |Shonen                                            |
+|Genre                     |action, science-fiction, fantastique, super-héros |
+|Nombre tome               |36 au japon et 34 en france                       |
 
 
 | Tables        | Are           | Cool  |
