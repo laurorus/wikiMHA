@@ -1,5 +1,4 @@
 # Katsuki Bakugo
-
 ::: tip Titre
 Texte
 :::
