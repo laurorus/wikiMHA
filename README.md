@@ -3,7 +3,7 @@
 |----------------|
 |![logo](https://github.com/laurorus/sitewebcour/blob/main/My_Hero_Academia_logo_fr.png "image1")|
 
-|information complémentaire|
+|information complémentaire                                     |
 |------------|:------------------------------------------------:|
 |Auteur      |kohei Horikoshi                                   |
 |Type        |Shonen                                            |
