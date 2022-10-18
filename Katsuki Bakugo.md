@@ -1,7 +1,7 @@
 # Katsuki Bakugo
 <img src="https://github.com/laurorus/sitewebcour/blob/main/Bakugo_Infobox.webp" alt="Éditer sur GitLab" width="100px"/>
 
-|                 | petites infos     |
+|Petites Infos    | <img src="https://github.com/laurorus/sitewebcour/blob/main/Bakugo_Infobox.webp" alt="Éditer sur GitLab" width="100px"/>                  |
 |-----------------|:-----------------:|
 |Nom              | Bakugo            |
 |Prénom           | Katsuki           |
