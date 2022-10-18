@@ -15,6 +15,5 @@ ___
 ### Super Vilain
 ___
 ![logo](https://github.com/laurorus/sitewebcour/blob/main/My_Hero_Academia_logo_fr.png "image1")
-[center]logo[/center]
 
-[center]![logo](https://github.com/laurorus/sitewebcour/blob/main/My_Hero_Academia_logo_fr.png "image1")[/center]
+<p class="text-center">Texte centré</p>
