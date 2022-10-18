@@ -14,7 +14,7 @@
 
 |information complémentaire|   
 |:---------------------------------------------------------------------------:|
-|Auteur                    |kohei Hori
+|Auteur                    |kohei Hori                                        |
 |--------------------------|:------------------------------------------------:|
 |Auteur                    |kohei Horikoshi                                   |
 |Type                      |shonen                                            |
