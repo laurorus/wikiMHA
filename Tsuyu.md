@@ -1,4 +1,4 @@
-# Tsuyu
+# Asui Tsuyu
 
 |Petites infos    | <img src="https://github.com/laurorus/sitewebcour/blob/main/Tsuyu_Asui_Infobox.webp" alt="Éditer sur GitLab" width="100px"/>            |
 |-----------------|:-----------:|
