@@ -6,26 +6,14 @@ Dans un monde où 80% de la population possède *un pouvoir nommé alter*,nous s
 ___
 
 ## personnages
-### Elèves
+>### Elèves
 * Midoriya Izuku
 * Bakugo Katsuki
 * tsuyu 
-### Professeurs / Super Héros
+>### Professeurs / Super Héros
 * All might
 * Eraser
-### Super Vilain
+>### Super Vilain
 ___
 [menu](https://github.com/laurorus/sitewebcour/blob/main/README.md)
 
-
-```python
-s = "Python syntax highlighting"
-print s
-```
-
-```Grav
-var g = "Grav syntax highlighting"
-[left]Texte àligné à gauche[/left]
-[center]Texte centré[/center]
-[right]Texte algné à droite[/right]
-```
