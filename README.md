@@ -21,7 +21,7 @@ ___
 ## personnages
 >### Elèves
 * [Midoriya Izuku](https://github.com/laurorus/sitewebcour/blob/main/IzukuMidoriya.md)
-* Bakugo Katsuki
+* [Bakugo Katsuki](https://github.com/laurorus/sitewebcour/blob/main/Katsuki%20Bakugo.md)
 * tsuyu 
 >### Professeurs / Super Héros
 * All might
@@ -30,7 +30,6 @@ ___
 ___
 [menu](https://github.com/laurorus/sitewebcour/blob/main/README.md)
 
-[fa=firefox extras=fa-4x,fa-spin /]
 
 
 
