@@ -17,5 +17,8 @@ ___
 ___
 [menu](https://github.com/laurorus/sitewebcour/blob/main/README.md)
 
-var s = "JavaScript syntax highlighting";
-alert(s);
+
+```python
+s = "Python syntax highlighting"
+print s
+```
