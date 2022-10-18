@@ -1,10 +1,7 @@
 # Izuku Midoriya
 ![imagerandom](https://github.com/laurorus/sitewebcour/blob/main/index.jpg "Midoriya Izuku")
 
-A & B
-&alpha;
-1 < 2
-<p>
+<img src="https://github.com/laurorus/sitewebcour/blob/main/index.jpg" alt="Éditer sur GitLab" width="100px"/>
 
 <img src="drawing.jpg" alt="drawing" width="200"/>
 
