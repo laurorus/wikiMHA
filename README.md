@@ -30,14 +30,7 @@ ___
 ___
 [menu](https://github.com/laurorus/sitewebcour/blob/main/README.md)
 
-
-<p class="text-center">Texte centré</p>
-
-<p class=[menu](https://github.com/laurorus/sitewebcour/blob/main/README.md)>Texte centré</p>
-
-
-<p class="menu">[menu](https://github.com/laurorus/sitewebcour/blob/main/README.md)</p>
-
+[fa=firefox extras=fa-4x,fa-spin /]
 
 
 
