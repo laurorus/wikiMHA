@@ -9,6 +9,8 @@
 |Age              | 15 ans            |
 |Anniversaire     | 20 Avril          |
 
+- [x] Masculin 
+- [ ] Feminin
 ___
 [menu](https://github.com/laurorus/sitewebcour/blob/main/README.md)
 
