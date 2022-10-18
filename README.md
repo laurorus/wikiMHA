@@ -14,13 +14,13 @@
 
 |information complémentaire|   
 |:---------------------------------------------------------------------------:|
-
+|
 |Auteur                    |kohei Hori                                        |
 |--------------------------|:------------------------------------------------:|
 |Auteur                    |kohei Horikoshi                                   |
 |Type                      |shonen                                            |
 |Genre                     |action, science-fiction, fantastique, super-héros |
-|Nombre tome               |36 au japon et 34 en france                       |
+|Nombre tome               |36 au japon et 34 en france                       ||
 
 
 ___
