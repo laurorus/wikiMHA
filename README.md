@@ -11,13 +11,12 @@
 |Genre                     |action, science-fiction, fantastique, super-héros |
 |Nombre tome               |36 au japon et 34 en france                       |
 
-
-| Aligné à gauche  | Centré          | Aligné à droite |
-| :--------------- |:---------------:| -----:|
-| Aligné à gauche  |   ce texte        |  Aligné à droite |
-| Aligné à gauche  | est             |   Aligné à droite |
-| Aligné à gauche  | centré          |    Aligné à droite |
-
+|information complémentaire|                                                  |
+|:---------------------------------------------------------------------------:|
+|Auteur                    |kohei Horikoshi                                   |
+|Type                      |shonen                                            |
+|Genre                     |action, science-fiction, fantastique, super-héros |
+|Nombre tome               |36 au japon et 34 en france                       |
 
 
 
