@@ -3,8 +3,8 @@
 
 <img src="https://github.com/laurorus/sitewebcour/blob/main/index.jpg" alt="Éditer sur GitLab" width="100px"/>
 
-<img src="drawing.jpg" alt="drawing" width="200"/>
-
+<img src="https://github.com/laurorus/sitewebcour/blob/main/Bakugo_Infobox.webp" alt="Éditer sur GitLab" width="100px"/>
+<img src="https://github.com/laurorus/sitewebcour/blob/main/Tsuyu_Asui_Infobox.webp" alt="Éditer sur GitLab" width="100px"/>
 
 ___
 [menu](https://github.com/laurorus/sitewebcour/blob/main/README.md)
