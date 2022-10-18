@@ -9,5 +9,7 @@
 |Age              | 15 ans      |
 |Anniversaire     | 12 février  |
 
+- [ ] Masculin 
+- [x] Feminin
 ___
 [menu](https://github.com/laurorus/sitewebcour/blob/main/README.md)
