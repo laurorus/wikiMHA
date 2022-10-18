@@ -15,7 +15,9 @@
 ___
 
 ## synopsis
-Dans un monde où 80% de la population possède *un pouvoir nommé alter*,nous suivons Izuku Midorya un collégien qui n'en possède pas. Fan de super héro il rencontre all might le numéro 1 des super héros, ce dernier lui propose de lui léguer son alter suite à un acte héroique du jeune homme. Izuku accepte et voit son rêve d'intégret une grande école de super héro se réaliser.
+Dans un monde où 80% de la population possède un pouvoir nommé *alter*[^1],nous suivons Izuku Midorya un collégien qui n'en possède pas. Fan de super héro il rencontre all might le numéro 1 des super héros, ce dernier lui propose de lui léguer son alter suite à un acte héroique du jeune homme. Izuku accepte et voit son rêve d'intégret une grande école de super héro se réaliser.
+
+[^1]: Pouvoir propre a chacun dépendant de celui de vos parents. Il peut être identique ou un mélange des deux
 ___
 
 ## personnages
