@@ -33,6 +33,7 @@ ___
 3. ### Super Vilain
 ___
 
-Texte normal suivi d’un <span style="color: #26B260">texte coloré en vert</span> dans un paragraphe.
-
-
+ & gt; Ceci est mon blockquote.
+& gt;
+& gt; Cela fait partie du même blockquote.
+& gt; Ceci est un nouveau blockquote. 
