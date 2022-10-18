@@ -31,8 +31,7 @@ ___
 >* Eraser
 3. ### Super Vilain
 ___
-[menu](https://github.com/laurorus/sitewebcour/blob/main/README.md)
 
-
+Texte normal suivi d’un <span style="color: #26B260">texte coloré en vert</span> dans un paragraphe.
 
 
