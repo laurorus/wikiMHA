@@ -22,14 +22,14 @@ Dans un monde où 80% de la population possède un pouvoir nommé *alter*[^1],no
 ___
 
 ## personnages
-### Elèves
+1. ### Elèves
 >* [Midoriya Izuku](https://github.com/laurorus/sitewebcour/blob/main/IzukuMidoriya.md)
 >* [Bakugo Katsuki](https://github.com/laurorus/sitewebcour/blob/main/Katsuki%20Bakugo.md)
 >* [Asui Tsuyu](https://github.com/laurorus/sitewebcour/blob/main/Tsuyu.md)
-### Professeurs / Super Héros
+2. ### Professeurs / Super Héros
 >* All might
 >* Eraser
-### Super Vilain
+3. ### Super Vilain
 ___
 [menu](https://github.com/laurorus/sitewebcour/blob/main/README.md)
 
