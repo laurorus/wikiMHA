@@ -8,6 +8,7 @@
 |Nom de super Hero| Deku        |
 |Age              | 16 ans      |
 |Anniversaire     | 15 juillet  |
+|Sex              | - [x] Masculin - [ ] Feminin
 
 
 ___
