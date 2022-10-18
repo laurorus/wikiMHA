@@ -1,6 +1,17 @@
 # Izuku Midoriya
 ![imagerandom](https://github.com/laurorus/sitewebcour/blob/main/index.jpg "Midoriya Izuku")
-![](.https://github.com/laurorus/sitewebcour/blob/main/Tsuyu_Asui_Infobox.webp =50x50)
-![image3](https://github.com/laurorus/sitewebcour/blob/main/Bakugo_Infobox.webp "bakugo")
+
+
+```html
+<html>
+  <head>
+    <img src="drawing.jpg" alt="drawing" width="200"/>
+  </head>
+</html>
+```
+
+<img src="drawing.jpg" alt="drawing" width="200"/>
+
+
 ___
 [menu](https://github.com/laurorus/sitewebcour/blob/main/README.md)
