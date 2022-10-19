@@ -32,8 +32,8 @@ ___
 >* [All might](https://github.com/laurorus/sitewebcour/blob/main/All%20Might.md)
 >* [Eraser](https://github.com/laurorus/sitewebcour/blob/main/Eraserhead.md)
 3. ### Super Vilain
->* OverHall
->* Tomura Shigaraki
+>* [OverHall](https://github.com/laurorus/sitewebcour/new/main)
+>* [Tomura Shigaraki](https://github.com/laurorus/sitewebcour/blob/main/Shigaraki.md)
 
 
 
