@@ -32,8 +32,8 @@ ___
 3. ### Super Vilain
 ___
 
-Center-aligned
-{: .text-center}
+<div style="text-align:center">Center-aligned</div>
+
 
 
 
