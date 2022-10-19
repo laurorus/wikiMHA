@@ -1,4 +1,5 @@
 # My Hero Academia
+<Div Align=Center> My Hero Académia </Div>
 |Image|
 |----------------|
 |![logo](https://github.com/laurorus/sitewebcour/blob/main/My_Hero_Academia_logo_fr.png "image1")|
