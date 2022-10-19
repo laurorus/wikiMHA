@@ -32,7 +32,7 @@ ___
 3. ### Super Vilain
 ___
 
-<div style="text-align:center">Center-aligned</div>
+<div style="text-align:right">Center-aligned</div>
 
 
 
