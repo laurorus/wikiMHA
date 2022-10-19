@@ -2,6 +2,7 @@
 |Image|
 |----------------|
 |![logo](https://github.com/laurorus/sitewebcour/blob/main/My_Hero_Academia_logo_fr.png "image1")|
+
 |                          |Information complémentaire                        |
 |--------------------------|:------------------------------------------------:|
 |Auteur                    |[kohei Horikoshi](https://www.google.com/search?client=firefox-b-d&sa=X&hl=fr&sxsrf=ALiCzsYMDkSK0VSWSFxlE9bweWOilDTorg:1666085720943&q=K%C5%8Dhei+Horikoshi&stick=H4sIAAAAAAAAAOPgE-LWz9U3MDRKTk43NFPiAnGyc-KNC3O15LOTrfST8vOz9XMyS1KLEosq44tTizJTi60SS0sy8osWsQp4H-3NSM1U8MgvyszOL87I3MHKuIudiYMBABbu5W9XAAAA&ved=2ahUKEwjrnb_8vOn6AhUS4oUKHY6SDzcQmxMoAXoECGkQAw&biw=1536&bih=739&dpr=1.25)                                   |
