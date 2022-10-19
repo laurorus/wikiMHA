@@ -16,5 +16,8 @@
 ___
 [menu](https://github.com/laurorus/sitewebcour/blob/main/README.md)
 
-<a Align=Center hrep="https://github.com/laurorus/sitewebcour/blob/main/README.md">
+
+<Div Align=Center> texte justifié <BR> au centre </Div>
+
+  <a Align=Center hrep="https://github.com/laurorus/sitewebcour/blob/main/README.md"> menu</a>
   
