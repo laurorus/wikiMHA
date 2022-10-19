@@ -32,7 +32,8 @@ ___
 3. ### Super Vilain
 ___
 
-<CENTER>Texte centre;</CENTER>
+<CENTER>Texte centre</CENTER>
+<Div Align=Center> texte justifié <BR> au centre </Div>
 
 
 
