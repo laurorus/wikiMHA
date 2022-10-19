@@ -12,6 +12,6 @@
 - [x] Masculin 
 - [ ] Feminin
 ___
-[menu](https://github.com/laurorus/sitewebcour/blob/main/README.md)
+<Div Align=Right> <BR> <a href="https://github.com/laurorus/sitewebcour/blob/main/README.md"> menu </a> </Div>
 
 
