@@ -29,8 +29,8 @@ ___
 >* [Bakugo Katsuki](https://github.com/laurorus/sitewebcour/blob/main/Katsuki%20Bakugo.md)
 >* [Asui Tsuyu](https://github.com/laurorus/sitewebcour/blob/main/Tsuyu.md)
 2. ### Professeurs / Super Héros
->* All might
->* Eraser
+>* [All might](https://github.com/laurorus/sitewebcour/blob/main/All%20Might.md)
+>* [Eraser](https://github.com/laurorus/sitewebcour/blob/main/Eraserhead.md)
 3. ### Super Vilain
 >* OverHall
 >* Tomura Shigaraki
