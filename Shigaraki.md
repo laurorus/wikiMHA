@@ -1,6 +1,6 @@
 # Tomura Shigaraki 
 
-|Petites Infos      | <img src="https://raw.githubusercontent.com/laurorus/sitewebcour/main/2019-05-12_(5).webp?token=GHSAT0AAAAAAB2CREGTZRUM5OM6N2WVL2EIY2QGHPA" alt="Éditer sur GitLab" width="200px"/>                  |
+|Petites Infos      | <img src="https://raw.githubusercontent.com/laurorus/sitewebcour/main/2019-05-12_(5).webp?token=GHSAT0AAAAAAB2CREGSMRQVODS5XODJD6GMY2QGQDA" width="200px"/>                  |
 |-------------------|:-----------------:|
 |Nom                | Tomura            |
 |Prénom             | Shigaraki         |
