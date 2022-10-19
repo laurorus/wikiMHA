@@ -32,7 +32,7 @@ ___
 3. ### Super Vilain
 ___
 
-
+<CENTER>Texte centre;</CENTER>
 
 
 
