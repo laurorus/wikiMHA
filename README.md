@@ -1,7 +1,5 @@
 <Div Align=Center> <h1>My Hero Academia</h1> </Div>
-
-(Boku no Hīrō Akademia)
-<Div Align=Center> <h1>僕のヒーローアカデミア</h1> </Div>
+<Div Align=Center> <h2>僕のヒーローアカデミア (Boku no Hīrō Akademia)</h3> </Div>
 
 |Image|
 |----------------|
